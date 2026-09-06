@@ -1,0 +1,6 @@
+{
+  "name": "Photography Portfolio",
+  "description": "Minimalist photography portfolio showcasing Portrait, Animal, and Landscape collections with clean white background, black typography, navy borders, and sample photo galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
